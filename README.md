@@ -6,3 +6,6 @@ Bloom - A framework for OSINT/multi-tool, including functions such as: HLR, WHOI
 RUS:
 Bloom - фреймворк для OSINT / мультитул, включающий в себя такие функции как: HLR, WHOIS, поиск по локальным БД, веб-кравлер, обфускация кода.
 
+ТГК: https://t.me/+vndvmNHYdYMxNzMy
+Больше различных софтов, баз данных и т.д там.
+
